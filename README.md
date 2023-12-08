@@ -1,6 +1,5 @@
 # Spark with Python 3.12
 
-
 ## System Setup
 
 ```bash
@@ -8,7 +7,7 @@
 which pyenv || curl https://pyenv.run | bash
 
 # install poetry with system's python interpreter, if not installed
-which poetry || curl -sSL https://install.python-poetry.org | /usr/bin/python - --force
+which poetry || curl -sSL https://install.python-poetry.org | /usr/bin/python
 ```
 
 ## Project Setup
